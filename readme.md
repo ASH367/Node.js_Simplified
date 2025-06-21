@@ -47,7 +47,7 @@ Make sure you're in the right folder and have Node.js installed.
 ---
 
 ## 📓 Full Notes
-You can view the detailed learning notes [here](https://github.com/ASH367/js-Nodejs-Learning/blob/main/notes.txt).
+You can view the detailed learning notes [here](https://github.com/ASH367/js-Nodejs-Learning/blob/main/Notes.pdf).
 
 ---
 
