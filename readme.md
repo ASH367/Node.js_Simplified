@@ -32,3 +32,26 @@ To run any `.js` file:
 
 ```bash
 node filename.js
+```
+
+Make sure you're in the right folder and have Node.js installed.
+
+---
+
+## 🧰 Tools Used
+- Node.js
+- VS Code
+- Git CLI
+- JavaScript (ES6+)
+
+---
+
+## 📓 Full Notes
+You can view the detailed learning notes [here](https://github.com/ASH367/js-Nodejs-Learning/blob/main/notes.txt).
+
+---
+
+## 🚀 Next Steps
+- Dive deeper into Node.js modules
+- Build mini-projects
+- Learn Express.js
